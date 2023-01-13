@@ -1,4 +1,4 @@
-package automation;
+package dataFiles;
 
 public class WedonTest {
     public static void main(String[] args) {
