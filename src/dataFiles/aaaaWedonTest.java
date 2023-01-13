@@ -1,7 +1,7 @@
 package dataFiles;
 
-public class WedonTest {
+public class aaaaWedonTest {
     public static void main(String[] args) {
-        System.out.println("Wedon Test");
+        System.out.println("aaaaa Test");
     }
 }
