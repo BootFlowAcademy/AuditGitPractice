@@ -2,6 +2,6 @@ package dataFiles;
 
 public class SenaTest {
     public static void main(String[] args) {
-        System.out.println("SenaTest");
+        System.out.println("Sena Test");
     }
 }
