@@ -5,5 +5,6 @@ public class nezihIhsan {
         System.out.println("nezih ihsan test added");
         //Merhaba
         //Merhaba dünya
+        //Herkese merhaba
     }
 }
